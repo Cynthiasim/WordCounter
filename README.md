@@ -1,1 +1,1 @@
-# WordCounter1
+# WordCounter
